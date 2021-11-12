@@ -5,7 +5,7 @@ menu2=int(input("ES DOGER		Rp 6.000,00	: "))
 menu3=int(input("RUJAK CINGUR		Rp 8.000,00	: "))
 print("=====TOTAL=====")
 totalmenu1=menu1*25000
-totakmenu2=menu2*6000
+totalmenu2=menu2*6000
 totalmenu3=menu3*8000
 print("TOTAL IKAN BAKAR		: Rp",totalmenu1)
 print("TOTAL ES DOGER			: Rp",totalmenu2)
